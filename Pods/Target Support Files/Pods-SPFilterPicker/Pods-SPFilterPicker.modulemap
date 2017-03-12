@@ -1,0 +1,6 @@
+framework module Pods_SPFilterPicker {
+  umbrella header "Pods-SPFilterPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
