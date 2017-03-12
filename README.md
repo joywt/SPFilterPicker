@@ -1,5 +1,4 @@
 # SPFilterPicker
 Filter picker develop with swift
 
-![](./first.png)
-![](./second.png)
+![](./first.png)   ![](./second.png)
